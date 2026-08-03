@@ -1,7 +1,7 @@
 This is yet another fork of Jim Brain's tcpser serial to IP modem emulation program.
 
 The original source code can be found here:
-http://www.jbrain.com/pub/linux/serial/
+https://github.com/go4retro/tcpser
 
 My changes are based upon the rc12 archive dated 11Mar09.
 
