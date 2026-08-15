@@ -1,7 +1,3 @@
-Fork^3! I'm working on a project that will be using tcpser, and I wanted to add a few things to make life easier.
-
----
-
 This is yet another fork of Jim Brain's tcpser serial to IP modem emulation program.
 
 The original source code can be found here:
